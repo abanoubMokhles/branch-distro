@@ -1,0 +1,13 @@
+.header {
+  background-color: #f6f6f6;
+  padding: 2.4rem 4.8rem;
+  text-align: center;
+}
+.header__heading {
+  font-size: 2.4rem;
+  margin-bottom: 2.4rem;
+  font-family: "Cascadia Code", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
